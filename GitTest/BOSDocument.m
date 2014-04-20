@@ -2,9 +2,11 @@
 //  BOSDocument.m
 //  GitTest
 //
-//  Created by Familjen on 2014-04-20.
+//  Created by Ola Straby on 2014-04-20.
 //  Copyright (c) 2014 OAY. All rights reserved.
 //
+
+
 
 #import "BOSDocument.h"
 
