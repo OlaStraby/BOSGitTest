@@ -7,7 +7,9 @@
 //
 
 /*! @class BOSDocument
- This is a test of the HeaderDocs
+ @abstract This is a test of the HeaderDocs
+ 
+ @discussion Thsi is a more lengthy comment about the purpose of this class
  */
 
 #import <Cocoa/Cocoa.h>
